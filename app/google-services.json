@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "62350261346",
+    "firebase_url": "https://peerial.firebaseio.com",
+    "project_id": "peerial",
+    "storage_bucket": "peerial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62350261346:android:f5769df6eca45c26db653b",
+        "android_client_info": {
+          "package_name": "com.example.peerial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62350261346-icmti0f2ka793rc013nbb85obsdlq3oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAo4R67tTHITgWdEjaWYpwmJT5fLxXPGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62350261346-icmti0f2ka793rc013nbb85obsdlq3oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
